@@ -18,7 +18,7 @@ An NPM module that forces compilation of your css [connect-assets](https://githu
 ### Usage
 
     assets = require 'connect-assets'
-    jsPrimer = require 'connect-assets-cssprimer'
+    cssPrimer = require 'connect-assets-cssprimer'
     
     # Snip ...
     
