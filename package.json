@@ -1,0 +1,24 @@
+{
+  "name": "connect-assets-cssprimer",
+  "version": "0.1.0",
+  "description": "Primes the CSS assets for a connect-assets instance during server initialization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chalkup/connect-assets-cssprimer.git"
+  },
+  "keywords": [
+    "require.js"
+  ],
+  "author": "Chalkup, LLC",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "865c4f2219c992a477ee3d44b99a48cdfd60ca95",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "watchr": "~2.4.4"
+  }
+}
