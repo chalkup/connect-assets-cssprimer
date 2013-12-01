@@ -1,6 +1,6 @@
 {
   "name": "connect-assets-cssprimer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Primes the CSS assets for a connect-assets instance during server initialization.",
   "main": "index.js",
   "scripts": {
